@@ -32,6 +32,7 @@ iframe {
 .homepage_category_logos .product-slider .product{min-height: auto;box-shadow: none;padding: 0;}
 .homepage_category_logos .product-slider .product .product__content__header{display: none;}
 .homepage_category_logos .product-slider .product img{height: auto !important;}
+body{font-family: "Spartan", sans-serif !important;}
 
 
 @media (max-width: 768px) {
