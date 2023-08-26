@@ -1,0 +1,36 @@
+.main_container {
+    display: flex;
+    /* background-color: #1c97b2; */
+    background-image: url("../../../static/counter_bg.jpg");
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    /* height: 300px; */
+    margin-top: 5rem;
+    /* margin-left: -290px; */
+    /* margin-right: -290px; */
+    /* margin-bottom: 6rem; */
+    margin-bottom: 70px;
+    padding: 70px 0px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .no1 {
+    text-align: center;
+    width: 25%;
+  }
+  
+  .font_data {
+    font-size: 3rem;
+  }
+
+  h1{
+    font-size: 3rem;
+  }
+
+  p{
+    font-size: large;
+  }
+  

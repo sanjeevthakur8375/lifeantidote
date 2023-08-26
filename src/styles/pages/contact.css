@@ -1,0 +1,11 @@
+ .contact-title {
+        text-align: left;
+        padding: 0;
+        margin-left: 0;
+      }
+
+      .contact-info__item__detail h3 {
+        text-align: left;
+        padding: 0;
+        margin: 0;
+      }
